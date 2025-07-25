@@ -1,11 +1,9 @@
-## Hi there 👋
-
-<div>
-
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&size=35&center=true&vCenter=true&width=1000&lines=Hey%2C+my+name+is+Afrah%3B+I+am+full+stack+developer+and+Entrepreneur!)](https://git.io/typing-svg)
-
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Afrah%2C+a+Full+Stack+iOS+Developer;UI%2FUX+Designer+and+Entrepreneur!;Passionate+about+building+scalable+solutions;And+creating+engaging+digital+experiences!" alt="Typing SVG" />
+    </a>
+</div>
+</div>
 <h3 align="center"> &#x1f4c8; GitHub Stats</h3>
 <div align="center" >
     <a  href="https://github.com/anamuddinahmad">
